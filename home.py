@@ -5,10 +5,10 @@ from streamlit_option_menu import option_menu
 
 
 st.set_page_config(
-    page_title="TRANSACTION BASED ANALYTICS ",
+    page_title="PRICE PREDICTION ",
 )
 
-st.title("Data Analytics on PhonePe dataset")
+st.title("ML Model for - Energy consumption price prediction")
 st.sidebar.success('Select a page above.')
 
 st.sidebar.image("images/umesh_profile_pic.jpg", use_column_width=True)
@@ -22,5 +22,5 @@ st.sidebar.image("images/umesh_profile_pic.jpg", use_column_width=True)
 '**Name:** R. Umesh Kumar'
 '**Batch Code:** MD108'
 '**Course:** Data Science Master Program by Guvi.in'
-'**Github link:** https://github.com/umeshkmrgithub/2_DS_ANALYTICS_APP.git '
+'**Github link:** https://github.com/umeshkmrgithub/ML_FINAL_ENERGY_PRICE_PREDICT_v2.2'
 '**Email:** umeshkmr@gmail.com '

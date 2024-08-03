@@ -28,8 +28,9 @@ st.markdown("""
 
 #--------------------------------------------------------------------------------------------------------------------------------------
 
-model = joblib.load('/home/umesh/Desktop/scratch_python/MD108 Project Files-20240713T050728Z-001/MD108 Project Files/ML_ENERGY_CONSUMPTION_FINAL_v2.2.2/ml_energy_consumption_final_v2.2.2/energy_consumption_model_ML2.2.joblib')
+# model = joblib.load('/home/umesh/Desktop/scratch_python/MD108 Project Files-20240713T050728Z-001/MD108 Project Files/ML_ENERGY_CONSUMPTION_FINAL_v2.2.2/ml_energy_consumption_final_v2.2.2/energy_consumption_model_ML2.2.joblib')
 # model=joblib.load('/home/umesh/Desktop/energy_consumption_model_ML2.2.joblib')
+model=('/home/umesh/Desktop/ML_FINAL_ENERGY_PRICE_PREDICT_v2.2/energy_consumption_model_ML2.2.joblib')
 #--------------------------------------------------------------------------------------------------------------------------------------
 st.title ("ML MODEL FOR ENERGY CONSUMPTION METER READING PREDICTION")
 
